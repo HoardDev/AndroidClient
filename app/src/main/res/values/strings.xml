@@ -1,0 +1,131 @@
+<resources>
+    <string name="app_name">HoardServer</string>
+
+    <!-- Strings related to login -->
+    <string name="text_view_login">Please Sign in!</string>
+    <string name="text_view_register">First time here!? Please register!</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_register">Register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."</string>
+    <!-- Strings for Activity and fragment ActionBar titles -->
+    <string name="title_activity_main">Main Activity</string>
+    <string name="title_fragment_home">Home</string>
+    <string name="title_fragment_books">Books</string>
+    <string name="title_fragment_music">Music</string>
+    <string name="title_fragment_video_games">Video Games</string>
+    <string name="title_fragment_comics">Comics &amp; Graphic Novels</string>
+    <string name="title_fragment_tt_games">Tabletop Games</string>
+    <string name="title_fragment_movies_tv">Movies &amp; TV Series</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Strings related to Home -->
+    <string name="fragment_home_welcome">Welcome, </string>
+    <string name="fragment_home_welcome1">You\'re in the Home Fragment!</string>
+    <string name="home_btn_label">Manage Profile</string>
+
+    <!-- Strings related to Books -->
+    <string name="books_btn_label">Open Library</string>
+    <string name="fragment_books_welcome">Welcome,</string>
+    <string name="fragment_books_welcome1">to your library!</string>
+    <string name="fragment_books_summary">Summary</string>
+    <string name="fragment_books_total">Total:  </string>
+    <string name="fragment_books_IP">Reading:  </string>
+    <string name="fragment_books_listLabel">Your List:</string>
+
+    <!-- Strings related to Comics -->
+    <string name="comics_btn_label">Open Library</string>
+    <string name="fragment_comics_welcome">Welcome,</string>
+    <string name="fragment_comics_welcome1">to your library!</string>
+    <string name="fragment_comics_summary">Summary</string>
+    <string name="fragment_comics_total">Total:  </string>
+    <string name="fragment_comics_IP">Reading:  </string>
+    <string name="fragment_comics_listLabel">Your List:</string>
+
+    <!-- Strings related to Movies & TV -->
+    <string name="movie_tv_btn_label">Open Library</string>
+    <string name="fragment_movie_tv_welcome">Welcome,</string>
+    <string name="fragment_movie_tv_welcome1">to your library!</string>
+    <string name="fragment_movie_tv_summary">Summary</string>
+    <string name="fragment_movie_tv_total">Total:  </string>
+    <string name="fragment_movie_tv_IP">Reading:  </string>
+    <string name="fragment_movie_tv_listLabel">Your List:</string>
+
+    <!-- Strings related to Music -->
+    <string name="music_btn_label">Open Library</string>
+    <string name="fragment_music_welcome">Welcome,</string>
+    <string name="fragment_music_welcome1">to your library!</string>
+    <string name="fragment_music_summary">Summary</string>
+    <string name="fragment_music_total">Total:  </string>
+    <string name="fragment_music_IP">Reading:  </string>
+    <string name="fragment_music_listLabel">Your List:</string>
+
+    <!-- Strings related to Video Games -->
+    <string name="video_games_btn_label">Open Library</string>
+    <string name="fragment_video_games_welcome">Welcome,</string>
+    <string name="fragment_video_games_welcome1">to your library!</string>
+    <string name="fragment_video_games_summary">Summary</string>
+    <string name="fragment_video_games_total">Total:  </string>
+    <string name="fragment_video_games_IP">Reading:  </string>
+    <string name="fragment_video_games_listLabel">Your List:</string>
+
+    <!-- Strings related to Table Top -->
+    <string name="table_top_btn_label">Open Library</string>
+    <string name="fragment_table_top_welcome">Welcome,</string>
+    <string name="fragment_table_top_welcome1">to your library!</string>
+    <string name="fragment_table_top_summary">Summary</string>
+    <string name="fragment_table_top_total">Total:  </string>
+    <string name="fragment_table_top_IP">Reading:  </string>
+    <string name="fragment_table_top_listLabel">Your List:</string>
+
+    <!-- Extraneous labels -->
+    <string name="logo_desc">The Hoard Logo</string>
+    <string name="placeholder_user_icon">User Icon</string>
+    <string name="empty_field">-</string>
+    <string name="title_activity_add_item">Add Item</string>
+
+    <!-- Strings for Add Item Spinner -->
+    <string-array name="add_item_spinner_list">
+        <item>Select item type &#8230;</item>
+        <item>Book</item>
+        <item>Comic/Graphic Novel</item>
+        <item>Movie/TV Show</item>
+        <item>Music</item>
+        <item>Tabletop Game</item>
+        <item>Video Game</item>
+    </string-array>
+
+    <!-- Strings for Item addition forms -->
+    <string name="prompt_title">Title</string>
+    <string name="prompt_album_title">Album Title</string>
+    <string name="prompt_author">Author</string>
+    <string name="prompt_publisher">Publisher</string>
+    <string name="prompt_isbn">ISBN</string>
+    <string name="prompt_format">Format</string>
+    <string name="prompt_is_read">Completed </string>
+    <string name="prompt_is_reading">In Progress </string>
+    <string name="prompt_is_listening">Currently Listening</string>
+    <string name="prompt_artist">Artist</string>
+    <string name="prompt_volume">Volume: </string>
+    <string name="label_movie">Movie</string>
+    <string name="label_tv_series">TV Series</string>
+    <string name="label_played">Played</string>
+    <string name="label_playing">Now Playing</string>
+    <string name="label_completed">Completed</string>
+    <string name="prompt_release_year">Release Year</string>
+    <string name="prompt_director">Director</string>
+    <string name="prompt_season">Season</string>
+    <string name="prompt_minimum">Minimum Players</string>
+    <string name="prompt_maximum">Maximum Players</string>
+    <string name="prompt_developer">Developer</string>
+
+</resources>
