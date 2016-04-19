@@ -1,4 +1,4 @@
-package com.indstudy.nicholas.HoardAndroid.HttpClasses;
+package com.hoardandroid.HttpClasses;
 
 import android.content.Context;
 import android.os.Bundle;
@@ -12,9 +12,9 @@ import android.widget.CheckBox;
 import android.widget.Spinner;
 
 import com.google.gson.Gson;
-import com.indstudy.nicholas.HoardAndroid.LibraryObjects.FormatEnums.AudioFormat;
-import com.indstudy.nicholas.HoardAndroid.LibraryObjects.Music;
-import com.indstudy.nicholas.HoardAndroid.R;
+import com.hoardandroid.LibraryObjects.FormatEnums.AudioFormat;
+import com.hoardandroid.LibraryObjects.Music;
+import com.hoardandroid.R;
 
 /**
  * A simple {@link Fragment} subclass.

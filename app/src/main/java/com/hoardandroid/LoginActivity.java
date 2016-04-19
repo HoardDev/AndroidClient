@@ -1,4 +1,4 @@
-package com.indstudy.nicholas.HoardAndroid;
+package com.hoardandroid;
 
 import android.animation.Animator;
 import android.animation.AnimatorListenerAdapter;
@@ -28,7 +28,7 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
 
-import com.indstudy.nicholas.HoardAndroid.MainActivities.MainActivity;
+import com.hoardandroid.MainActivities.MainActivity;
 
 import java.util.ArrayList;
 import java.util.List;

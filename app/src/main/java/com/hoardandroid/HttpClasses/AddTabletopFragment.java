@@ -1,4 +1,4 @@
-package com.indstudy.nicholas.HoardAndroid.HttpClasses;
+package com.hoardandroid.HttpClasses;
 
 import android.content.Context;
 import android.os.Bundle;
@@ -11,10 +11,10 @@ import android.widget.AutoCompleteTextView;
 import android.widget.Spinner;
 
 import com.google.gson.Gson;
-import com.indstudy.nicholas.HoardAndroid.InputException;
-import com.indstudy.nicholas.HoardAndroid.LibraryObjects.FormatEnums.TableTopFormat;
-import com.indstudy.nicholas.HoardAndroid.LibraryObjects.TableTopGame;
-import com.indstudy.nicholas.HoardAndroid.R;
+import com.hoardandroid.InputException;
+import com.hoardandroid.LibraryObjects.FormatEnums.TableTopFormat;
+import com.hoardandroid.LibraryObjects.TableTopGame;
+import com.hoardandroid.R;
 
 /**
  * A simple {@link Fragment} subclass.

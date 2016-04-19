@@ -1,4 +1,4 @@
-package com.indstudy.nicholas.HoardAndroid.MainActivities;
+package com.hoardandroid.MainActivities;
 
 import android.app.Activity;
 import android.os.Bundle;
@@ -10,8 +10,8 @@ import android.widget.ArrayAdapter;
 import android.widget.ListView;
 import android.widget.TextView;
 
-import com.indstudy.nicholas.HoardAndroid.LibraryObjects.Book;
-import com.indstudy.nicholas.HoardAndroid.R;
+import com.hoardandroid.LibraryObjects.Book;
+import com.hoardandroid.R;
 
 import java.util.ArrayList;
 

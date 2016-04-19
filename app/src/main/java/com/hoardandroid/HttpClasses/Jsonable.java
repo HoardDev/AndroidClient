@@ -1,6 +1,6 @@
-package com.indstudy.nicholas.HoardAndroid.HttpClasses;
+package com.hoardandroid.HttpClasses;
 
-import com.indstudy.nicholas.HoardAndroid.InputException;
+import com.hoardandroid.InputException;
 
 /**
  * Created by Nicholas on 11/17/2015.

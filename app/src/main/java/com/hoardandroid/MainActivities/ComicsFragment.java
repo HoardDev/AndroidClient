@@ -1,4 +1,4 @@
-package com.indstudy.nicholas.HoardAndroid.MainActivities;
+package com.hoardandroid.MainActivities;
 
 import android.app.Activity;
 import android.net.Uri;
@@ -11,8 +11,8 @@ import android.widget.ArrayAdapter;
 import android.widget.ListView;
 import android.widget.TextView;
 
-import com.indstudy.nicholas.HoardAndroid.LibraryObjects.Comic;
-import com.indstudy.nicholas.HoardAndroid.R;
+import com.hoardandroid.LibraryObjects.Comic;
+import com.hoardandroid.R;
 
 import java.util.ArrayList;
 

@@ -1,8 +1,8 @@
-package com.indstudy.nicholas.HoardAndroid.LibraryObjects;
+package com.hoardandroid.LibraryObjects;
 
 import android.media.Image;
 
-import com.indstudy.nicholas.HoardAndroid.LibraryObjects.FormatEnums.AudioFormat;
+import com.hoardandroid.LibraryObjects.FormatEnums.AudioFormat;
 
 import java.util.ArrayList;
 

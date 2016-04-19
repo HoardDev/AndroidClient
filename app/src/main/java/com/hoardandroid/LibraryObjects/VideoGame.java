@@ -1,6 +1,6 @@
-package com.indstudy.nicholas.HoardAndroid.LibraryObjects;
+package com.hoardandroid.LibraryObjects;
 
-import com.indstudy.nicholas.HoardAndroid.LibraryObjects.FormatEnums.VideoGameFormat;
+import com.hoardandroid.LibraryObjects.FormatEnums.VideoGameFormat;
 
 /**
  * Created by Nicholas on 10/24/2015.

@@ -1,6 +1,5 @@
-package com.indstudy.nicholas.HoardAndroid.HttpClasses;
+package com.hoardandroid.HttpClasses;
 
-import android.app.Activity;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.view.LayoutInflater;
@@ -13,10 +12,10 @@ import android.widget.Spinner;
 
 import com.google.gson.Gson;
 
-import com.indstudy.nicholas.HoardAndroid.InputException;
-import com.indstudy.nicholas.HoardAndroid.LibraryObjects.Book;
-import com.indstudy.nicholas.HoardAndroid.LibraryObjects.FormatEnums.PrintFormat;
-import com.indstudy.nicholas.HoardAndroid.R;
+import com.hoardandroid.InputException;
+import com.hoardandroid.LibraryObjects.Book;
+import com.hoardandroid.LibraryObjects.FormatEnums.PrintFormat;
+import com.hoardandroid.R;
 
 /**
  * A simple {@link Fragment} subclass.

@@ -1,9 +1,10 @@
-package com.indstudy.nicholas.HoardAndroid.LibraryObjects;
+package com.hoardandroid.LibraryObjects;
 
-import com.indstudy.nicholas.HoardAndroid.LibraryObjects.FormatEnums.PrintFormat;
+import com.hoardandroid.LibraryObjects.FormatEnums.PrintFormat;
 
 /**
  * Created by Nicholas on 10/19/2015.
+ *
  */
 public class Book {
     private int itemId;
