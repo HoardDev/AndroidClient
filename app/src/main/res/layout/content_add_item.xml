@@ -8,7 +8,7 @@
     android:paddingBottom="@dimen/activity_vertical_margin"
     app:layout_behavior="@string/appbar_scrolling_view_behavior"
     tools:showIn="@layout/activity_add_item"
-    tools:context="com.indstudy.nicholas.HoardAndroid.HttpClasses.AddItemActivity">
+    tools:context="com.hoardandroid.HttpClasses.AddItemActivity">
 
     <TextView android:id="@+id/add_item_header"
         android:layout_width="wrap_content"
@@ -35,7 +35,7 @@
         android:paddingBottom="@dimen/activity_vertical_margin"
         android:layout_below="@+id/add_item_spinner"
         app:layout_behavior="@string/appbar_scrolling_view_behavior"
-        tools:context="com.indstudy.nicholas.HoardAndroid.HttpClasses.AddItemActivity">
+        tools:context="com.hoardandroid.HttpClasses.AddItemActivity">
     </RelativeLayout>
 
 </RelativeLayout>

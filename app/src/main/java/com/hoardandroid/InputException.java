@@ -1,4 +1,4 @@
-package com.indstudy.nicholas.HoardAndroid;
+    package com.hoardandroid;
 
 /**
  * Created by Nicholas on 12/9/2015.

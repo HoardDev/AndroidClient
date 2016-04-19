@@ -1,4 +1,4 @@
-package com.indstudy.nicholas.HoardAndroid.HttpClasses;
+package com.hoardandroid.HttpClasses;
 
 import android.content.Intent;
 import android.os.AsyncTask;
@@ -15,9 +15,9 @@ import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentTransaction;
 import android.widget.Toast;
 
-import com.indstudy.nicholas.HoardAndroid.InputException;
-import com.indstudy.nicholas.HoardAndroid.Items;
-import com.indstudy.nicholas.HoardAndroid.R;
+import com.hoardandroid.InputException;
+import com.hoardandroid.Items;
+import com.hoardandroid.R;
 
 import java.io.IOException;
 import java.io.OutputStreamWriter;

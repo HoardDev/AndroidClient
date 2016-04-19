@@ -1,4 +1,4 @@
-package com.indstudy.nicholas.HoardAndroid.MainActivities;
+package com.hoardandroid.MainActivities;
 
 import android.app.Activity;
 import android.os.Bundle;
@@ -8,7 +8,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
-import com.indstudy.nicholas.HoardAndroid.R;
+import com.hoardandroid.R;
 
 
 /**

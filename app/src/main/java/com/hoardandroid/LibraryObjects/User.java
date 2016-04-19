@@ -1,4 +1,4 @@
-package com.indstudy.nicholas.HoardAndroid.LibraryObjects;
+package com.hoardandroid.LibraryObjects;
 
 import java.util.ArrayList;
 

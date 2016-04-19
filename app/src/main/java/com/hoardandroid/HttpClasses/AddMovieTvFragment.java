@@ -1,4 +1,4 @@
-package com.indstudy.nicholas.HoardAndroid.HttpClasses;
+package com.hoardandroid.HttpClasses;
 
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
@@ -13,11 +13,11 @@ import android.widget.RadioGroup;
 import android.widget.Spinner;
 
 import com.google.gson.Gson;
-import com.indstudy.nicholas.HoardAndroid.InputException;
-import com.indstudy.nicholas.HoardAndroid.LibraryObjects.Movie;
-import com.indstudy.nicholas.HoardAndroid.LibraryObjects.TelevisionSeries;
-import com.indstudy.nicholas.HoardAndroid.LibraryObjects.FormatEnums.VideoFormat;
-import com.indstudy.nicholas.HoardAndroid.R;
+import com.hoardandroid.InputException;
+import com.hoardandroid.LibraryObjects.Movie;
+import com.hoardandroid.LibraryObjects.TelevisionSeries;
+import com.hoardandroid.LibraryObjects.FormatEnums.VideoFormat;
+import com.hoardandroid.R;
 
 import java.util.Calendar;
 

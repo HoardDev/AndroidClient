@@ -1,4 +1,4 @@
-package com.indstudy.nicholas.HoardAndroid.MainActivities;
+package com.hoardandroid.MainActivities;
 
 import android.content.Intent;
 import android.os.AsyncTask;
@@ -16,9 +16,9 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 
-import com.indstudy.nicholas.HoardAndroid.HttpClasses.AddItemActivity;
-import com.indstudy.nicholas.HoardAndroid.LibraryObjects.User;
-import com.indstudy.nicholas.HoardAndroid.R;
+import com.hoardandroid.HttpClasses.AddItemActivity;
+import com.hoardandroid.LibraryObjects.User;
+import com.hoardandroid.R;
 
 import java.io.InputStream;
 import java.io.InputStreamReader;

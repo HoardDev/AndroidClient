@@ -1,4 +1,4 @@
-package com.indstudy.nicholas.HoardAndroid;
+package com.hoardandroid;
 
 import org.junit.Test;
 

@@ -1,6 +1,6 @@
-package com.indstudy.nicholas.HoardAndroid.LibraryObjects;
+package com.hoardandroid.LibraryObjects;
 
-import com.indstudy.nicholas.HoardAndroid.LibraryObjects.FormatEnums.TableTopFormat;
+import com.hoardandroid.LibraryObjects.FormatEnums.TableTopFormat;
 
 /**
  * Created by Nicholas on 10/24/2015.
