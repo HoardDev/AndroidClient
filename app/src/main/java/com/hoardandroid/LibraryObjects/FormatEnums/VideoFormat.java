@@ -1,4 +1,4 @@
-package com.indstudy.nicholas.HoardAndroid.LibraryObjects.FormatEnums;
+package com.hoardandroid.LibraryObjects.FormatEnums;
 
 /**
  * Created by Nicholas on 11/26/2015.

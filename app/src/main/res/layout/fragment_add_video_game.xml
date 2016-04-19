@@ -3,7 +3,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context="com.indstudy.nicholas.HoardAndroid.HttpClasses.AddVideoGameFragment">
+    tools:context="com.hoardandroid.HttpClasses.AddVideoGameFragment">
 
     <android.support.design.widget.TextInputLayout
         android:layout_width="match_parent"

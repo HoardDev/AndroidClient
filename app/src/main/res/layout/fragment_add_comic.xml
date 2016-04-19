@@ -4,7 +4,7 @@
     android:layout_height="match_parent"
     android:layout_below="@+id/add_item_spinner"
     android:orientation="vertical"
-    tools:context="com.indstudy.nicholas.HoardAndroid.HttpClasses.AddComicFragment">
+    tools:context="com.hoardandroid.HttpClasses.AddComicFragment">
 
     <android.support.design.widget.TextInputLayout
         android:layout_width="match_parent"

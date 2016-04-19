@@ -1,7 +1,7 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
     android:layout_height="match_parent" android:layout_below="@+id/add_item_spinner"
-    tools:context="com.indstudy.nicholas.HoardAndroid.HttpClasses.AddBookFragment"
+    tools:context="com.hoardandroid.HttpClasses.AddBookFragment"
     android:orientation="vertical" >
 
     <android.support.design.widget.TextInputLayout

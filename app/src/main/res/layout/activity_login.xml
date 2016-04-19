@@ -21,7 +21,7 @@
                 android:layout_width="263dp"
                 android:layout_height="138dp"
                 android:id="@+id/login_logo_image_view"
-                android:src="@drawable/HoardAndroidlogoplaceholder"
+                android:src="@drawable/hoardandroidlogoplaceholder"
                 android:layout_gravity="center_horizontal"
                 android:layout_weight="0.08"
                 android:contentDescription="@string/logo_desc" />

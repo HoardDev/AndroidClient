@@ -1,6 +1,6 @@
-package com.indstudy.nicholas.HoardAndroid.LibraryObjects;
+package com.hoardandroid.LibraryObjects;
 
-import com.indstudy.nicholas.HoardAndroid.LibraryObjects.FormatEnums.PrintFormat;
+import com.hoardandroid.LibraryObjects.FormatEnums.PrintFormat;
 
 /**
  * Created by Nicholas on 10/23/2015.

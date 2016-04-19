@@ -1,4 +1,4 @@
-package com.indstudy.nicholas.HoardAndroid.HttpClasses;
+package com.hoardandroid.HttpClasses;
 
 import android.content.Context;
 import android.net.Uri;
@@ -13,11 +13,11 @@ import android.widget.CheckBox;
 import android.widget.Spinner;
 
 import com.google.gson.Gson;
-import com.indstudy.nicholas.HoardAndroid.LibraryObjects.Book;
-import com.indstudy.nicholas.HoardAndroid.LibraryObjects.FormatEnums.PrintFormat;
-import com.indstudy.nicholas.HoardAndroid.LibraryObjects.FormatEnums.VideoGameFormat;
-import com.indstudy.nicholas.HoardAndroid.LibraryObjects.VideoGame;
-import com.indstudy.nicholas.HoardAndroid.R;
+import com.hoardandroid.LibraryObjects.Book;
+import com.hoardandroid.LibraryObjects.FormatEnums.PrintFormat;
+import com.hoardandroid.LibraryObjects.FormatEnums.VideoGameFormat;
+import com.hoardandroid.LibraryObjects.VideoGame;
+import com.hoardandroid.R;
 
 /**
  * A simple {@link Fragment} subclass.
